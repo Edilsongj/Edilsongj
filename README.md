@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá meu nome é Edilson Guimarães
+
+
+👨‍💻 Atuei por vários anos como autônomo na área de infraestrutura de TI e suporte técnico, adquirindo experiência em montagem de máquinas, configuração de redes e suporte a usuários. Essa vivência me proporcionou uma base sólida em tecnologia, resolução de problemas e atendimento ao cliente.
+
+👨‍💼 Recentemente, direcionei minha carreira para o desenvolvimento de software, concluindo um curso de HTML, CSS e JavaScript e atualmente aprofundando meus conhecimentos em C# com Programação Orientada a Objetos. Busco minha primeira oportunidade como desenvolvedor backend, onde possa aplicar e expandir meus conhecimentos, contribuindo para soluções tecnológicas eficientes.
+
+♿ Sou PCD (Amputação transfemoral - membro inferior esquerdo) e estou à disposição para oportunidades remotas ou presenciais.
+
+📩 Vamos conectar? Sempre aberto a novas oportunidades e desafios na área de tecnologia!👋
 
 <!--
 **Edilsongj/Edilsongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
